@@ -1,0 +1,88 @@
+{
+  "clinic_name": "Hospital Animal Dr. Cossia",
+  "professionals": [
+    {
+      "name": "Dr. Cossia, Carlos",
+      "specialties": ["Clinica General"],
+      "schedule": {
+        "martes": ["09:30", "10:00", "10:30", "11:00", "11:30", "12:00"],
+        "miércoles": ["18:00", "18:30", "19:00", "19:30"],
+        "jueves": ["09:30", "10:00", "10:30", "11:00", "11:30", "12:00"]
+      }
+    },
+    {
+      "name": "Dr. Corbacho, Martin",
+      "specialties": ["Traumatologia", "Neurologia", "Clinica General"],
+      "schedule": {
+        "martes": ["15:30", "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30"],
+        "miércoles": ["08:30", "09:00", "09:30", "10:00", "10:30", "11:00", "11:30", "12:00", "12:30", "13:00", "13:30"],
+        "jueves": ["15:30", "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30"]
+      }
+    },
+    {
+      "name": "Dra. Re, Juliana",
+      "specialties": ["Ecografias", "Clinica General"],
+      "schedule": {
+        "lunes": ["17:30", "18:00", "18:30", "19:00"],
+        "martes": ["15:30", "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30"],
+        "miércoles": ["09:30", "10:00", "10:30", "11:00", "11:30"],
+        "jueves": ["15:30", "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30"],
+        "viernes": ["09:30", "10:00", "10:30", "11:00", "11:30", "12:00", "12:30", "13:00", "13:30", "14:00", "14:30", "15:00", "15:30"]
+      }
+    },
+    {
+      "name": "Dr. Cellamare, Omar",
+      "specialties": ["Cardiologia", "Clinica General"],
+      "schedule": {
+        "lunes": ["17:30", "18:00", "18:30", "19:00", "19:30"],
+        "martes": ["08:30", "09:00", "09:30", "10:00", "10:30", "11:00"],
+        "jueves": ["08:30", "09:00", "09:30", "10:00", "10:30", "11:00"],
+        "viernes": ["17:30", "18:00", "18:30", "19:00", "19:30"]
+      }
+    },
+    {
+      "name": "Dra. Puyo, Lida",
+      "specialties": ["Clinica General", "Gerontologia"],
+      "schedule": {
+        "lunes": ["09:00", "09:30", "10:00", "10:30", "11:00", "11:30", "12:00"],
+        "martes": ["12:30", "13:00", "13:30", "14:00", "14:30", "15:00"],
+        "miércoles": ["14:30", "15:00", "15:30", "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30"],
+        "jueves": ["12:30", "13:00", "13:30", "14:00", "14:30", "15:00"],
+        "viernes": ["15:30", "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30"]
+      }
+    },
+    {
+      "name": "Dr. Galicchio, Matias",
+      "specialties": ["Animales Silvestres"],
+      "schedule": {
+        "miércoles": ["09:30", "10:00", "10:30", "11:00", "11:30", "12:00", "12:30", "13:00", "13:30", "14:00"]
+      }
+    },
+    {
+      "name": "Dr. Porporato, Lautaro",
+      "specialties": ["Oncologia"],
+      "schedule": {
+        "lunes": ["13:00", "13:30", "14:00", "14:30", "15:00", "15:30", "16:00", "16:30"]
+      }
+    },
+    {
+      "name": "Dra. Niccolai, Noelia",
+      "specialties": ["Kinesiologia"],
+      "schedule": {
+        "lunes": ["08:00", "08:30", "09:00", "09:30", "10:00", "10:30"]
+      }
+    }
+  ],
+  "specialties": [
+    "Clinica General",
+    "Traumatologia",
+    "Gerontologia",
+    "Kinesiologia",
+    "Cardiologia",
+    "Neurologia",
+    "Ecografias",
+    "Oncologia",
+    "Animales Silvestres"
+  ],
+  "appointment_options": { "duration": 30, "interval_between_appointments": 0 }
+} 

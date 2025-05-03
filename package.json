@@ -1,0 +1,27 @@
+{
+  "name": "doctor",
+  "version": "1.0.0",
+  "description": "``` ██████   ██████   ██████  ████████  ██████  ██████   ██   ██ ██    ██ ██          ██    ██    ██ ██   ██ ██   ██ ██    ██ ██   ███    ██    ██    ██ ██████   ██   ██ ██    ██ ██    ██    ██    ██    ██ ██   ██ ██████   ██████   ██████     ██     ██████  ██   ██ ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "puppeteer": "^24.7.2",
+    "qrcode-terminal": "^0.12.0",
+    "twilio": "^5.5.2",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#main"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "ngrok": "^5.0.0-beta.2",
+    "nodemon": "^3.1.9"
+  }
+}
