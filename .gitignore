@@ -134,3 +134,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# whatpsapp-web.js session files
+.wwebjs_auth/
+
+.wwebjs_cache/
