@@ -139,3 +139,7 @@ dist
 .wwebjs_auth/
 
 .wwebjs_cache/
+
+# Planning files
+PLANNING.md
+PLANNING_2-0.md
